@@ -101,8 +101,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "**Clnaen**"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Clnaen"
+  avatar           : "https://ifh.cc/g/M6wSHs.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Studing **CS**"
   location         : "South Korea"
   email            :
